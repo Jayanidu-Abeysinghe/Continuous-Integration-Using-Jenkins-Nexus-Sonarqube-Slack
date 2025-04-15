@@ -1,7 +1,8 @@
 # 🚀 Continuous Integration Using Jenkins, Nexus, SonarQube & Slack
 
-![Architecture Diagram](Flow of Continuous Integration Pipeline.png.webp)
+### 4️⃣ Pipeline Flow
 
+![Pipeline Flow](Flow%20of%20Continuous%20Integration%20Pipeline.png)
 
 This project demonstrates a complete CI/CD pipeline for automating the **build**, **test**, **code quality analysis**, **artifact management**, and **team notifications** using:
 
@@ -81,11 +82,6 @@ To set up a full **CI/CD pipeline** that automates:
 
 ---
 
-### 4️⃣ Pipeline Flow
-
-![Pipeline Flow](Flow%20of%20Continuous%20Integration%20Pipeline.png)
-
----
 
 ### 5️⃣ Jenkins Pipeline Script Overview
 
