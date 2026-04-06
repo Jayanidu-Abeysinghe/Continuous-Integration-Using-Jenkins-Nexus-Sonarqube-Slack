@@ -3,7 +3,7 @@ This repository documents a complete CI/CD implementation for the **Java web app
 
 
 ### End-to-End Flow
-1. Developer pushes code to GitHub branch (`atom` or `docker`).
+1. Developer pushes code to GitHub branch.
 2. Jenkins job is triggered (webhook/manual).
 3. Jenkins builds and tests code using Maven.
 4. Jenkins runs Checkstyle + SonarQube analysis.
